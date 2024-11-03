@@ -1,4 +1,4 @@
-module github.com/USERNAME/goland-otpbot-api
+module github.com/Jinarulislam/otp-in-desk
 
 go 1.17
 
